@@ -27,7 +27,7 @@ env/
 Thumbs.db
 
 # Dados e modelos gerados
-data/raw/*
+#data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
@@ -35,7 +35,7 @@ models/*
 !models/.gitkeep
 
 # Saídas geradas
-outputs/figures/*
+#outputs/figures/*
 !outputs/figures/.gitkeep
 outputs/metrics/*
 !outputs/metrics/.gitkeep
